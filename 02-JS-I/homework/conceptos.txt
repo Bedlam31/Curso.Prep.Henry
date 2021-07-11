@@ -1,0 +1,7 @@
+Conceptos
+    Variables:
+Las variables son contenedores de valores.
+    Strings:
+El String es un tipo de dato, son Cadenas de texto, 
+cualquier bloque de texto entre comillas es un string.
+    Funciones: (Argumentos, return)
