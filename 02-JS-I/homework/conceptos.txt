@@ -1,7 +1,22 @@
-Conceptos
+Conceptos:
+
     Variables:
 Las variables son contenedores de valores.
+
     Strings:
 El String es un tipo de dato, son Cadenas de texto, 
 cualquier bloque de texto entre comillas es un string.
+
     Funciones: (Argumentos, return)
+Una funcion es similar a un conjunto de instrucciones que realizan una tarea o calculan un valor, 
+pero para que eso pase debe tener una entrada y devolver una salida y que ambas tengan una relacion.
+Para usar una funcion debemos definirla en algun lugar desde el que queramos llamarla.
+
+    Declaraciones (if):
+if es un sentencia que contiene un atributo, si el atributo resulta verdadero, la plantilla es
+procesada.
+
+    Valores Booleanos(truee, false):
+Un booleano es un dato logico que solo puede tener 2 valores true, o false.
+true es cuando es verdadero, false es para cuando es falso.
+
